@@ -1,4 +1,4 @@
-# Evaluating graph neural nets with unseen nodes after pretraining
+# Evaluating graph neural nets with unseen nodes 
 
 **Paper:** L Galke, I Vagliano, A Scherp: *Can Graph Neural Networks Go "Online"? An Analysis of Pretraining and Inference*, RLGM@ICLR2019.
 
