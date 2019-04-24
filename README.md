@@ -4,6 +4,8 @@
 
 A link to the paper will follow soon.
 
+![Results figure from the paper](results.png)
+
 ## Requirements
 
 For the evaluate script: python3, torch, dgl, pandas
