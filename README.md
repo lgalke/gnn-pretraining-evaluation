@@ -6,6 +6,8 @@ A link to the paper will follow soon.
 
 ![Results figure from the paper](results.png)
 
+Accuracy scores after inserting previously unseen, unlabelled nodes and edges.
+
 ## Requirements
 
 For the evaluate script: python3, torch, dgl, pandas
