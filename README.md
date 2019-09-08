@@ -1,8 +1,6 @@
 # Evaluating graph neural nets with unseen nodes 
 
-**Paper:** L Galke, I Vagliano, A Scherp: *Can Graph Neural Networks Go "Online"? An Analysis of Pretraining and Inference*, Representation Learning on Graphs and Manifolds workshop, ICLR 2019.
-
-A link to the paper will follow soon.
+**Paper:** [L Galke, I Vagliano, A Scherp: *Can Graph Neural Networks Go "Online"? An Analysis of Pretraining and Inference*, Representation Learning on Graphs and Manifolds workshop, ICLR 2019.](https://rlgm.github.io/papers/21.pdf)
 
 ![Results figure from the paper](results.png)
 
